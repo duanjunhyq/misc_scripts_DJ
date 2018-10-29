@@ -1,1 +1,1 @@
-# msc_scripts_DJ
+# Miscellaneous codes for NGS and bioinformatic analysis. 
